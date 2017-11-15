@@ -1,0 +1,3 @@
+dependencies {
+    compile group: 'org.apache.flink', name: scalaName ('flink-streaming-scala'), version: '1.3.2'
+}
